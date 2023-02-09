@@ -1,0 +1,9 @@
+{
+  "Cars":
+  [
+    {"StoryName":"The Lightbulb","Author":"S.A. Rose","StoryImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg", "StoryDescription": "Old Rag Mountain Loop is a 9.5 mile heavily trafficked loop trail located near Etlan, Virginia that features a river and is rated as difficult. The trail is primarily used for hiking and is best used from May until October.", "StoryDate" : "State Rte 600, Etlan, VA 22719"},
+    {"StoryName":"The Lightbulb","Author":"S.A. Rose","StoryImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg", "StoryDescription": "Old Rag Mountain Loop is a 9.5 mile heavily trafficked loop trail located near Etlan, Virginia that features a river and is rated as difficult. The trail is primarily used for hiking and is best used from May until October.", "StoryDate" : "State Rte 600, Etlan, VA 22719"},
+    {"StoryName":"The Lightbulb","Author":"S.A. Rose","StoryImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg", "StoryDescription": "Old Rag Mountain Loop is a 9.5 mile heavily trafficked loop trail located near Etlan, Virginia that features a river and is rated as difficult. The trail is primarily used for hiking and is best used from May until October.", "StoryDate" : "State Rte 600, Etlan, VA 22719"}
+  ],
+  "Status":"OK"
+}
